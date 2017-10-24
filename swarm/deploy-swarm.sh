@@ -1,1 +1,1 @@
-docker stack deploy --compose-file docker-swarm-hadoop.yml hdfs
+docker stack deploy --compose-file docker-swarm-hadoop-examples.yml hdfs
